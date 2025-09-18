@@ -20,7 +20,7 @@
 # JavaScript
 * Added smooth scrolling to navbar links using the scrollIntoView method.
 
-* Added an event listener to handle navigation clicks for scrolling behavior.
+* Added an event listener to handle navigation clicks for scrolling behavior
 
 # Projects screenshorts
 
