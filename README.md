@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Simple Portfolio Website
 * This is my first portfolio website built with HTML, CSS, and JavaScript.
 * My goal was to create a simple portfolio site as my first experience.
 * The code may be a bit long and basic, but I will improve it next time!
