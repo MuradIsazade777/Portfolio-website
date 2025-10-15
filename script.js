@@ -14,4 +14,4 @@ document.querySelectorAll('.nav-link').forEach(link => {
 const btn = document.getElementById("btn");
 btn.addEventListener("click",() =>{
     alert("Please hire me!")
-});
+}); 
